@@ -8,7 +8,7 @@ tdslocations = {
   "doc/latex/nameref/ChangeLog.txt",
   "doc/latex/nameref/README.md",
   "doc/latex/nameref/nameref.pdf",
-  "source/latex/hyperref/nameref.dtx",
+  "source/latex/backref/nameref.dtx",
   "tex/latex/nameref/nameref.sty",
 }
 
