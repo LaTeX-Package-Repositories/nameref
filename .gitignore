@@ -1,6 +1,6 @@
 build/*
 nameref.pdf
-
+nameref-ctan.zip
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
