@@ -15,3 +15,6 @@ Don't change this file in any respect.
 \new@label@record{@tag@LastPage}{{abspage}{1}{tagmcabs}{0}{tagstruct}{1}}[nl]
 \gdef \@abspage@last{1}[nl]
 -------- gh433.aux (end) -----------
+***************
+Compilation 1 of test file completed with exit status 0
+Compilation 2 of test file completed with exit status 0

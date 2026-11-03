@@ -23,7 +23,7 @@ checkconfigs = {"build"}
 checkengines = {"pdftex","luatex"}
 
 checkruns = 2
-
+recordstatus=true
 typesetexe  = "lualatex"
 
 sourcefiles = {
