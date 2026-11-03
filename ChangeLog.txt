@@ -1,3 +1,8 @@
+Nameref Version 2026-11-03 v2.60
+
+2026-11-03 Ulrike Fischer
+   *  nameref has been moved out of the hyperref bundle. It is now maintained at https://github.com/LaTeX-Package-Repositories/nameref.
+
 2026-10-31 Ulrike Fischer
 	* nameref.dtx: extend caption patch, issue #433
   

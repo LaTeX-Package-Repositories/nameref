@@ -2,7 +2,7 @@
 
 A package to allow reference to the *names* of sections rather than numbers.
 
-Version: 2026-10-31 v2.59
+Version: 2026-11-03 v2.60
 
 ## Issues
 
