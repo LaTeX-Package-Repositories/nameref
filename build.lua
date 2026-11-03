@@ -38,10 +38,11 @@ typesetfiles = {"nameref.dtx"}
 packtdszip = false
 
 
--- l3build tag auto increases final letter
+-- l3build tag auto increases final letter or increases number
 -- l3build tag AUTO increases .two-digit number and sets final letter to 'a'
 
 tagfiles={"README.md","*.dtx"}
+
 function update_tag(file,content,tagname,tagdate)
 
 local tagpattern="(%d%d%d%d[-/]%d%d[-/]%d%d) v(%d+[.])(%d+)(%l?)"
